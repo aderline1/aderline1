@@ -7,6 +7,8 @@ Eu sou o Ademir Filho, sou programador Front end, atualmente estou aprendendo e 
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" Alt="logo-java">
+
 
 [![aderline1 stats](https://github-readme-stats.vercel.app/api?username=aderline1)](https://github.com/anuraghazra/github-readme-stats)
 
